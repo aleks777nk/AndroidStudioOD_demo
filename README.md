@@ -1,2 +1,2 @@
 # AndroidStudioOD_demo
-My firs repository for train android integration nn projects type object detection
+My first repositoryfor integrating neural network object detection projects into an Android app
